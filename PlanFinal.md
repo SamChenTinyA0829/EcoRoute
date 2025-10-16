@@ -1,4 +1,3 @@
-Voici un **plan simplifié, structuré et professionnel** pour ton **Livrable 1**, intégrant les dimensions **technique** et **pédagogique** :
 
 ---
 

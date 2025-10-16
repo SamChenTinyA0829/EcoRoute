@@ -91,10 +91,10 @@ Le projet repose sur des techniques avancées d’optimisation combinatoire et d
 
 - **Concepteur du projet** : Simon CAILLARD
 - **Membres de l'équipe Projet** : 
-    - Tedy
-    - Sihan
-    - Seyni 
-    - Belraj
+    - [Tedy](https://www.linkedin.com/in/tedy-nkenmegny-a2563835a)
+    - [Sihan](https://www.linkedin.com/in/sihan-chen-619872253)
+    - [Seyni](https://www.linkedin.com/in/seyni-jr-balde) 
+    - Velraj
 
 
 ## Rejoignez-nous ! 🚀
