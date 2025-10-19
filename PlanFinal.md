@@ -10,7 +10,7 @@
 
 ---
 
-## **2. Cadre théorique et pédagogique** Sihan & Velraj
+## **2. Cadre théorique et pédagogique** [Sihan](https://www.linkedin.com/in/sihan-chen-619872253) & Velraj
 
 - 2.1. Introduction aux graphes
 - 2.2. Composants et propriétés d’un graphe
@@ -21,7 +21,7 @@
 
 ---
 
-## **3. Analyse et modélisation du problème** - Tedy & Seyni
+## **3. Analyse et modélisation du problème** - [Tedy](https://www.linkedin.com/in/tedy-nkenmegny-a2563835a) & [Seyni](https://www.linkedin.com/in/seyni-jr-balde)
 
 - 3.1. Description du système réel
 - 3.2. Hypothèses de modélisation
@@ -40,7 +40,7 @@
 
 ---
 
-## **5. Méthodologie et approche de résolution** - Seyni & tedy
+## **5. Méthodologie et approche de résolution** - [Seyni](https://www.linkedin.com/in/seyni-jr-balde) & [Tedy](https://www.linkedin.com/in/tedy-nkenmegny-a2563835a)
 
 - 5.1. Présentation des approches possibles (sous graphe, Résolution P, NP, NP complet, etc..)
 - 5.2. Choix de la stratégie retenue
