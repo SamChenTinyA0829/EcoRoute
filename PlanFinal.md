@@ -25,30 +25,30 @@ Voici un **plan simplifié, structuré et professionnel** pour ton **Livrable 1*
 
 ## **3. Analyse et modélisation du problème** - Tedy & Seyni
 
-3.1. Description du système réel
-3.2. Hypothèses de modélisation
-3.3. Représentation schématique du système
-3.4. Structure du graphe (sommets, arcs, pondérations, contraintes)
-3.5. Limites et simplifications du modèle
+- 3.1. Description du système réel
+- 3.2. Hypothèses de modélisation
+- 3.3. Représentation schématique du système
+- 3.4. Structure du graphe (sommets, arcs, pondérations, contraintes)
+- 3.5. Limites et simplifications du modèle
 
 ---
 
 ## **4. Formalisation mathématique** - Tout le monde après validation des autres parties par Belgacem
 
-4.1. Définition formelle du problème
-4.2. Variables, paramètres et contraintes
-4.3. Fonction(s) objectif(s)
-4.4. Notations et conventions
+- 4.1. Définition formelle du problème
+- 4.2. Variables, paramètres et contraintes
+- 4.3. Fonction(s) objectif(s)
+- 4.4. Notations et conventions
 
 ---
 
 ## **5. Méthodologie et approche de résolution** - Seyni & tedy
 
-5.1. Présentation des approches possibles (sous graphe, Résolution P, NP, NP complet, etc..)
-5.2. Choix de la stratégie retenue
-5.3. Algorithmes explorés (recherche locale, heuristiques, exactes…)
-5.4. Outils et environnement technique utilisés (Langage de base python, librairies utilisées, leur explications, leur utilités dans le cadre du projet, et consort)
-5.5. Structure du code (exemple de pipeline ou notebook simplifié)
+- 5.1. Présentation des approches possibles (sous graphe, Résolution P, NP, NP complet, etc..)
+- 5.2. Choix de la stratégie retenue
+- 5.3. Algorithmes explorés (recherche locale, heuristiques, exactes…)
+- 5.4. Outils et environnement technique utilisés (Langage de base python, librairies utilisées, leur explications, leur utilités dans le cadre du projet, et consort)
+- 5.5. Structure du code (exemple de pipeline ou notebook simplifié)
 
 ---
 
